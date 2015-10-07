@@ -1,14 +1,13 @@
 package br.ufrn.imd.bibliotecasufrn.model;
 
 /**
- * Created by Josiel on 30/09/2015.
+ * Created by Pablo Gabriel on 04/10/2015.
  */
 public class NavDrawerItem {
     private boolean showNotify;
     private String title;
 
     public NavDrawerItem() {
-
     }
 
     public NavDrawerItem(boolean showNotify, String title) {
